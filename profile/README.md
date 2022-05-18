@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+This organisation contains the codes which runs [Robotics Middleware Framework (RMF)](https://github.com/open-rmf/rmf) 
+
+A joint project by [S&TPPO](https://www.sgdi.gov.sg/ministries/pmo/departments/stppo) and [GovTech](https://www.tech.gov.sg/), contributed by external collaborators: [Open Robotics](https://www.openrobotics.org), [HOPE Technik](https://www.hopetechnik.com/), [Senserbot](https://www.senserbot.com/).
+
+
 <!--
 
 **Here are some ideas to get you started:**
