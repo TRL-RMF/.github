@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-This organisation contains the codes which runs [Robotics Middleware Framework (RMF)](https://github.com/open-rmf/rmf) 
+This organisation contains the codes which runs [Robotics Middleware Framework (RMF)](https://github.com/open-rmf/rmf) in Tampines Regional Library, as well as the source code for CAATO2 robot.
 
 A joint project by [S&TPPO](https://www.sgdi.gov.sg/ministries/pmo/departments/stppo) and [GovTech](https://www.tech.gov.sg/), contributed by external collaborators: [Open Robotics](https://www.openrobotics.org), [HOPE Technik](https://www.hopetechnik.com/), [Senserbot](https://www.senserbot.com/).
 
