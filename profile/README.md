@@ -4,6 +4,7 @@ This organisation contains the codes which runs [Robotics Middleware Framework (
 
 A joint project by [S&TPPO](https://www.sgdi.gov.sg/ministries/pmo/departments/stppo) and [GovTech](https://www.tech.gov.sg/), contributed by external collaborators: [Open Robotics](https://www.openrobotics.org), [HOPE Technik](https://www.hopetechnik.com/), [Senserbot](https://www.senserbot.com/).
 
+For more information, please checkout our [website](https://trl-rmf.github.io/website/)!
 
 <!--
 
